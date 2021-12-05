@@ -7,7 +7,7 @@
     backdrop-filter: blur(20px);
 }
 
-.header-container{
+.header-container {
     padding-left: 130px;
     padding-right: 130px;
 }
@@ -32,7 +32,7 @@ h1 {
     margin-top: 100px;
 }
 
-.container2-title{
+.container2-title {
     font-weight: bold;
     font-size: 20px;
     line-height: 40px;
@@ -42,14 +42,14 @@ h1 {
 
 }
 
-.container2-text{
+.container2-text {
     font-weight: normal;
     font-size: 17px;
     line-height: 32px;
     color: #45494F;
 }
 
-.first-screen-left p{
+.first-screen-left p {
     font-size: 17px;
     line-height: 32px;
     letter-spacing: -0.4px;
@@ -67,46 +67,48 @@ h1 {
     margin-bottom: 50px;
 }
 
-.modern_blank{
+.modern_blank {
     height: 728px;
     box-sizing: border-box;
     display: flex;
 }
-.row{
+
+.row {
     margin: 0;
 }
- .card{
-     background-color: #163DA2;
- }
 
- .card-body{
-     height: 400px;
-     position: absolute;
- }
+.card {
+    background-color: #163DA2;
+}
 
- .card-text{
-     width: 496px;
-     font-size: 17px;
-     line-height: 32px;
-     color: #FBFDFF;
- }
+.card-body {
+    height: 400px;
+    position: absolute;
+}
 
- .card-title{
-     font-weight: bold;
-     font-size: 20px;
-     line-height: 40px;
-     letter-spacing: 2px;
-     color: #FBFDFF;
- }
+.card-text {
+    width: 496px;
+    font-size: 17px;
+    line-height: 32px;
+    color: #FBFDFF;
+}
 
- .card-inside{
-     display: flex;
-     flex-direction: column;
-     align-items: center;
-     justify-content: center;
- }
+.card-title {
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 40px;
+    letter-spacing: 2px;
+    color: #FBFDFF;
+}
 
-.modern_blank_blue{
+.card-inside {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.modern_blank_blue {
     flex-grow: 1;
     background: linear-gradient(180deg, #163DA2 0%, #003584 100%);
     display: flex;
@@ -129,7 +131,8 @@ h1 {
     letter-spacing: 2px;
     color: #FBFDFF
 }
-h5{
+
+h5 {
     font-weight: bold;
     font-size: 20px;
     line-height: 40px;
@@ -138,7 +141,7 @@ h5{
     color: #1652AC;
 }
 
-.third-screen-text{
+.third-screen-text {
     font-weight: normal;
     font-size: 17px;
     line-height: 32px;
@@ -146,17 +149,17 @@ h5{
     box-sizing: border-box;
 }
 
-.row-third{
+.row-third {
     display: flex;
     align-items: center;
 }
 
-.ihre{
+.ihre {
     display: flex;
     justify-content: center;
 }
 
-.cards{
+.cards {
     width: 394px;
     height: 136px;
     right: 927px;
@@ -169,11 +172,11 @@ h5{
     box-sizing: border-box;
 }
 
-.cards img{
+.cards img {
     margin: 30px;
 }
 
-.cards p{
+.cards p {
     font-weight: 500;
     font-size: 19px;
     line-height: 32px;
@@ -181,11 +184,11 @@ h5{
     color: #45494F;
 }
 
-.ihre-container{
+.ihre-container {
     width: 1500px;
 }
 
-.under-haupt-insides h2{
+.under-haupt-insides h2 {
     font-weight: 500;
     font-size: 28px;
     line-height: 40px;
@@ -196,7 +199,7 @@ h5{
 }
 
 
-.under__haupt_container{
+.under__haupt_container {
     margin-top: 60px;
     height: 860px;
     width: 1400px;
@@ -207,33 +210,33 @@ h5{
     border-radius: 16px;
 }
 
-.under__haupt_text-container{
+.under__haupt_text-container {
     column-gap: 50px;
 }
 
 .under__haupt_text-left,
-.under__haupt_text-right{
+.under__haupt_text-right {
     font-size: 17px;
     line-height: 30px;
     letter-spacing: -0.4px;
     color: #45494F;
 }
 
-.under__haupt_text-container p{
+.under__haupt_text-container p {
     margin-bottom: 50px;
 }
 
-.under-haupt-insides{
+.under-haupt-insides {
     justify-content: center;
 }
 
-.under__bilder{
+.under__bilder {
     align-items: center;
     flex-direction: column;
 }
 
 
-.under__bilder h2{
+.under__bilder h2 {
     font-weight: 500;
     font-size: 28px;
     line-height: 40px;
@@ -244,7 +247,7 @@ h5{
     margin-bottom: 30px;
 }
 
-.under__bilder-photo_nav button{
+.under__bilder-photo_nav button {
     width: 126px;
     height: 78px;
     left: 429px;
@@ -255,17 +258,17 @@ h5{
     border-radius: 8px;
 }
 
-#blue{
+#blue {
     background-color: #0045a8;
     opacity: inherit;
 }
 
-.photo__nav_circles{
+.photo__nav_circles {
     column-gap: 25px;
     margin-left: 30px;
 }
 
-.photo__nav_item{
+.photo__nav_item {
     width: 12px;
     height: 12px;
     border-radius: 50%;
@@ -275,11 +278,11 @@ h5{
     box-sizing: border-box;
 }
 
-.under__bilder-photo_nav{
+.under__bilder-photo_nav {
     margin-top: 30px;
 }
 
-.under__button{
+.under__button {
     font-weight: 500;
     font-size: 17px;
     line-height: 40px;
@@ -295,7 +298,7 @@ h5{
     margin-top: 30px;
 }
 
-.under__buttons h2{
+.under__buttons h2 {
     width: 1445px;
     height: 57px;
     font-weight: 500;
@@ -306,14 +309,14 @@ h5{
 }
 
 
-.under__buttons{
+.under__buttons {
     margin-top: 80px;
     align-items: center;
     flex-direction: column;
     border-bottom: 2px solid #EEF0F4;
 }
 
-.footer__top{
+.footer__top {
     height: 450px;
     padding: 0 120px 0 120px;
     display: flex;
@@ -322,7 +325,7 @@ h5{
     justify-content: center;
 }
 
-.footer__top h2{
+.footer__top h2 {
     font-weight: bold;
     font-size: 34px;
     line-height: 43px;
@@ -331,20 +334,20 @@ h5{
 }
 
 
-.footer__top img{
+.footer__top img {
     width: 197px;
     height: 76px;
 }
 
 
-.footer__box{
-    border-bottom:2px solid #EDEFF3 ;
+.footer__box {
+    border-bottom: 2px solid #EDEFF3;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-.footer__top_middle p{
+.footer__top_middle p {
     font-weight: normal;
     font-size: 17px;
     line-height: 32px;
@@ -354,7 +357,7 @@ h5{
 }
 
 
-.footer__top_middle-button{
+.footer__top_middle-button {
     width: 306px;
     height: 69px;
     background: linear-gradient(180deg, #0C5CD6 0%, rgba(0, 56, 140, 0) 100%), #004FC7;
@@ -369,19 +372,19 @@ h5{
     color: #FFFFFF;
 }
 
-.footer__bottom{
+.footer__bottom {
     display: flex;
     column-gap: 150px;
 }
 
 
-.footer__top_container{
+.footer__top_container {
     border-bottom: 2px solid #EEF0F4;
     margin-bottom: 50px;
 }
 
 
-h4{
+h4 {
     font-style: normal;
     font-weight: bold;
     font-size: 17px;
@@ -390,7 +393,7 @@ h4{
     color: #A3ADBA
 }
 
-.footer__bottom__column{
+.footer__bottom__column {
     font-weight: normal;
     font-size: 17px;
     line-height: 32px;
@@ -398,7 +401,7 @@ h4{
     color: #9EABBB;
 }
 
-.footer__bottom_number{
+.footer__bottom_number {
     color: #332255;
 }
 
